@@ -1,2 +1,2 @@
 # hw4_CreativeCoding
-Create a Animated Optical Illusion which shows a rotating logo.
+Create an Animated Optical Illusion which shows a rotating logo.
